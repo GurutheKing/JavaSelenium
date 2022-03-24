@@ -9,7 +9,8 @@ System.out.println("VB");
 }
 public VBranch(int discount, String offer)
 {
-super(3);
+//super(3);
+super(discount);
 this.discount = discount;
 this.offer =offer;
 System.out.println("VBranch special Offer"+discount+offer);
