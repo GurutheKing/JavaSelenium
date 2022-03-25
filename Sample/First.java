@@ -8,4 +8,9 @@ public static void main (String [] args)
 	// method calling
 	
 }
+	
+	//method name
+	//set of instructions with in {}
+	//method body/definition
+	//method calling statement
 }

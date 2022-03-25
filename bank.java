@@ -1,4 +1,4 @@
-//calss name
+//class name
 public class bank
 	
 {
@@ -18,7 +18,7 @@ public class bank
 		
 	}
 	void payloan(int amount, float in)
-		//cahnge the variable form amt to amount
+		//change the variable form amt to amount
 	{
 		System.out.println(amount*in);
 		System.out.println("paying loan");
@@ -28,7 +28,6 @@ public class bank
 
 int withdraw()
 {
-	
 	System.out.println("Give me 100 Rs");
 	int amount= 100;
 	return (amount);
