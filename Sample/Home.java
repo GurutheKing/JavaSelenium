@@ -6,7 +6,7 @@ public class Home
 	public static void main(String[]args)
 	{
 		Home boy = new Home();
-		//obj reference boy goes tot he memory2 of the
+		//obj reference boy goes to the memory2 of the
 		//method created processes the print statement and comes back to main method
 		boy.bring_newspaper();
 	}
