@@ -1,5 +1,5 @@
 class Empname extends EmpnamePrent implements EmployeeIn,Traffic
-//in java we can give only one parent class-> as damond problemmay arise
+//in java we can give only one parent class-> as diamond problem may arise
 {
 	public static void main(String[]args)
 	{
