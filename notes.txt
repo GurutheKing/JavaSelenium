@@ -1,0 +1,51 @@
+package tamilnadu.chennai;
+
+public class basic_P {
+
+}
+//we have seen oop
+//code resuse
+//modules
+//memory efficiency  to be used 
+
+coding is entirely different
+
+if some one asks below scenrios can u create
+1. consumption of eb bill
+
+oops was trainer focussed
+
+the basic programming is completely in hands of the traineee
+it depends on ohw much of practice- 
+more the scenario practice
+
+example  
+if 
+looping
+array
+for 
+while
+	
+//no pending
+//if pending it will be hectic
+//make sure of u make this as priority as it is going to give the salary food mum mum
+//plan of Apr2 ?
+//planning is required to achive mastery in java
+//all are busy - but if we do not practice
+	//it will break the - self confidence
+	//inferiority creation - comparison
+	//make a plan and do what ever u do
+//programming- instructing or controlling the computer
+//
+	//Day1
+	//Day2
+	//Day3
+	//Day4
+	//pair programmni
+	//team discussions
+	
+	
+	
+	looping
+	
+	syso 
